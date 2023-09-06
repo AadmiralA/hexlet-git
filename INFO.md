@@ -1,2 +1,1 @@
-git is awesome!
-New text
+No code No pain
